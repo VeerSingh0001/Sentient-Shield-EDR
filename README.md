@@ -18,4 +18,5 @@ Infotact's servers face constant brute-force and targeted ransomware attacks. Th
 - [x] Enrolled Windows and Linux agents.
 - [x] Installed and configured Sysmon using SwiftOnSecurity rules.
 - **Gate Check Passed:** All agents reporting "Active" status with reliable heartbeats.
-  *(Add a screenshot of your Wazuh dashboard showing the 2 active agents here)*
+
+<img width="1915" height="968" alt="agents_status" src="https://github.com/user-attachments/assets/3ecaf570-9112-44cf-9295-f50002f97f7e" />\
